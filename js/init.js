@@ -4,6 +4,10 @@
     $('.button-collapse').sideNav();
 	$('.scrollspy').scrollSpy();
 
+	// $(document).ready(function(){
+ //    	$('.scrollspy').scrollSpy();
+ //  	});
+
     /*** Animate word ***/
 
     //set animation timing
@@ -264,9 +268,12 @@
 		e.target.style['zIndex'] = 2;
 	}
 
+
+
 	// [].forEach.call(card, function(card) {
 	// 	card.addEventListener('click', scaleCard, false);
 	// });
+
 
 	}); // end of document ready
 })(jQuery); // end of jQuery name space
