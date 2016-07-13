@@ -373,7 +373,7 @@ footer.page-footer {
 }
 
 .description{
-    font-size: 1.25em;
+    font-size: 1.15em;
     font-weight: 300;
     margin-top: 10px;
     line-height: 1.25em;
@@ -381,6 +381,12 @@ footer.page-footer {
 
 .custom_header{
     font-size: 3em;
+    font-weight: bold;
+    font-family: merriweather;
+}
+
+.portfolio_header{
+    font-size: 2em;
     font-weight: bold;
     font-family: merriweather;
 }
